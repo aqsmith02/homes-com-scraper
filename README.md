@@ -142,4 +142,4 @@ scrape_all(price_range=1, page_start=3, page_end=6, skip_first_half=True)
 - **Network intensive** due to detailed page visits
 
 ## Author
-- **Author**: Andrew Smith  
+- Andrew Smith  
