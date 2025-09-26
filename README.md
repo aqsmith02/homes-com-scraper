@@ -8,7 +8,7 @@ This scraper uses Playwright to automate browser interactions and extract detail
 
 ## Features
 
-### Comprehensive Data Collection
+### Variables Collected
 - **Property Details**: Address, price, square footage, bedrooms, bathrooms, year built, price per square foot
 - **Market Metrics**: Days on market
 - **Location Scores**: Crime, walkability, environmental factors (sound, flood, fire, heat, wind, air quality)
